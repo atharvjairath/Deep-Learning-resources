@@ -12,3 +12,10 @@ Deep Learning is an important subset of Machine Learning and it is therefor impo
 There are other very amazing coureses on both Coursera and Udacity. But you can also go through one of the best playlist available.
 
 - [SentDex's Machine Learning with Python](https://youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+
+
+## Neural Network
+
+
+-  [What is Neural Network by 3Blue1Brown (Best channel for maths) ](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
