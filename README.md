@@ -8,3 +8,7 @@ Happy learning!
 Deep Learning is an important subset of Machine Learning and it is therefor important to get a wider knowledge and understanding of Machine Learning. The Coursera Machine Learning course by Andrew Ng is highly recommended.
 
 - [Coursera Machine Learning by Andrew-Ng](https://www.coursera.org/learn/machine-learning)
+
+There are other very amazing coureses on both Coursera and Udacity. But you can also go through one of the best playlist available.
+
+- [SentDex's Machine Learning with Python](https://youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
